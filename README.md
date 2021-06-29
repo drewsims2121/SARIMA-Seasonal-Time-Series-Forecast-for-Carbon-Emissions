@@ -10,12 +10,21 @@ This dataset is from the Mauna Loa Observatory in Hawaii at a Latitude of 19.5 N
 **1.)** Loading in of necessary libraries
 
 **2.)** Loading the csv data in
+
 **3.)** Combining information from multiple columns to create a datetime64 index
+
 **4.)** Determine if the data has seasonality or not
+
 **5.)** Find optimal orders of SARIMAX parameters (P,D,Q)
+
 **6.)** Train/Test Split Data
+
 **7.)** Create model and fit model to data
+
 **8.)** Predict Data
+
 **9.)** Evaluate model performance metrics
+
 **10.)** Forecast Future Predictions
+
 **11.)** Observations
