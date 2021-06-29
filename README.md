@@ -8,6 +8,7 @@ This dataset is from the Mauna Loa Observatory in Hawaii at a Latitude of 19.5 N
 **The steps of this process include:**
 
 **1.)** Loading in of necessary libraries
+
 **2.)** Loading the csv data in
 **3.)** Combining information from multiple columns to create a datetime64 index
 **4.)** Determine if the data has seasonality or not
